@@ -6,3 +6,16 @@
   padding: 10px 25px 25px 25px;
 }
 
+a.amendment {
+  background-color:#6CF565;
+  color: #333;
+  &:hover {
+    background-color: #2D8E00;
+    cursor: pointer;
+    color: #333;
+  }
+}
+
+a.bg-active {
+  background-color: #2D8E00;
+}
